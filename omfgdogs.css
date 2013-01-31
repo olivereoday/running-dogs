@@ -1,0 +1,13 @@
+.website {
+	font-size: x-large;
+	font-style: italic;
+	color: aqua;
+	position: fixed;
+	bottom: 5px;
+	right: 5px;
+}
+
+body {
+	background-image: url("assets/omfgdogs.gif");
+	background-repeat: repeat;
+}
